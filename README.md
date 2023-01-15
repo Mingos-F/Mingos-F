@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mingos-F
+- 👋 Hi, I’m Domingos
 
 <!---
 Mingos-F/Mingos-F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
